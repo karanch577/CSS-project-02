@@ -1,4 +1,4 @@
-# Project1 [live link](https://css-projects-02.netlify.app/)
+# Project2 [live link](https://css-projects-02.netlify.app/)
 
 ## By - Karan Chauhan
 
@@ -10,6 +10,6 @@
     - float
 
 ## Time taken to complete this project
-    - 2.5 hours
+    - 3 hours
 
 ![image](Assignment2.png)
